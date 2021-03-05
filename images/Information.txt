@@ -1,0 +1,1 @@
+419041 is the gauge ID for Keepit reservoir. This is an example of the 1m depth interval images used to calculate the depth to surface area relationship for Keepit.
